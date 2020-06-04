@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConfigActivity</string>
+    <string name="btn_sava_label">sava</string>
+    <string name="btn_opencfg_label">openOne</string>
+</resources>
